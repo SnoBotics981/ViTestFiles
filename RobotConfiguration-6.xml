@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<LVData xmlns="http://www.ni.com/LVData">
+  <Version>16.0f2</Version>
+  <ControlDefinition>
+    <RobotId>
+      <MotorId>Drive Left Front<CanBusId>11</CanBusId><PpdChannelId>0</PpdChannelId></MotorId>
+      <MotorId>Drive Left Rear<CanBusId>12</CanBusId><PpdChannelId>1</PpdChannelId></MotorId>
+      <MotorId>Drive Right Front<CanBusId>13</CanBusId><PpdChannelId>2</PpdChannelId></MotorId>
+      <MotorId>Drive Right Rear<CanBusId>14</CanBusId><PpdChannelId>3</PpdChannelId></MotorId>
+      <MotorId>Arm Base<CanBusId>15</CanBusId><PpdChannelId>4</PpdChannelId></MotorId>
+      <MotorId>Arm Base<CanBusId>16</CanBusId><PpdChannelId>5</PpdChannelId></MotorId>
+    </RobotId>
+    <RobotId>
+      <MotorId>Drive Left Front<CanBusId>11</CanBusId><PpdChannelId>0</PpdChannelId></MotorId>
+      <MotorId>Drive Left Rear<CanBusId>12</CanBusId><PpdChannelId>1</PpdChannelId></MotorId>
+      <MotorId>Drive Right Front<CanBusId>13</CanBusId><PpdChannelId>2</PpdChannelId></MotorId>
+      <MotorId>Drive Right Rear<CanBusId>14</CanBusId><PpdChannelId>3</PpdChannelId></MotorId>
+      <MotorId>Arm Base<CanBusId>15</CanBusId><PpdChannelId>4</PpdChannelId></MotorId>
+      <MotorId>Arm Base<CanBusId>16</CanBusId><PpdChannelId>5</PpdChannelId></MotorId>
+    </RobotId>
+  </ControlDefinition>
+</LVData>
